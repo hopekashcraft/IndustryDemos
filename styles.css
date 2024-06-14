@@ -1,0 +1,11 @@
+/* Place your CSS styles in this file */
+
+h1 {
+    text-align: center;
+    font-family: "Source Sans Pro", sans-serif;
+    font-weight: normal;
+}
+body {
+    background-image: url("C:\Users\hoashcra\Pictures\2024-06-13_15-30-08.png");
+    background-size: cover;
+}
